@@ -237,7 +237,7 @@ body {
     height: 400px;
     width: 30%;
     min-width: 300px;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
     border: 1px solid grey;
     border-radius: 10px;
     background-color: #fff;
@@ -304,7 +304,7 @@ body {
     align-content: center;
     height: 400px;
     min-width: 250px;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
     border: 1px solid grey;
     border-radius: 10px;
     background-color: #fff;
